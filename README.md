@@ -20,63 +20,151 @@
 [![](https://visitcount.itsvg.in/api?id=Zeyadmohamed291&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 💼 Zeyad Mohamed - AI Engineer & Automation Specialist
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>💼 Zeyad Mohamed - Technical Skills & Projects</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Cairo', sans-serif;
+      background-color: #f5f7fa;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background-color: #fff;
+      border-radius: 15px;
+      padding: 20px;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    }
+    .card h2 {
+      margin-top: 0;
+      font-size: 1.2em;
+    }
+    .card ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .card ul li {
+      margin: 8px 0;
+      line-height: 1.4;
+    }
+    .emoji {
+      margin-right: 8px;
+    }
+    .project-description {
+      font-size: 0.95em;
+      color: #555;
+      margin: 5px 0;
+    }
+    .impact {
+      font-weight: bold;
+      color: #1a73e8;
+    }
+  </style>
+</head>
+<body>
 
-### 🤖 AI/ML Technologies
-| Category | | Skills |
-| :--- | :---: | :--- |
-| **LLMs** | | OpenAI GPT, Claude, Gemini, DeepSeek, LLaMA |
-| **AI Engineering** | | AI Assistants, Intelligent Systems, Business Automation |
-| **Deep Learning** | | ANN, CNN, RNN, PyTorch, TensorFlow |
-| **Computer Vision** | | YOLO, OpenCV, Image Processing |
-| **Vector DBs** | | Pinecone, Weaviate, Chroma, FAISS |
-| **Generative AI** | | AI-based Image, Video, Logo, & Marketing Content |
+<h1>💼 Zeyad Mohamed - Technical Skills & Projects</h1>
 
-<br>
+<div class="grid">
 
-### ⚡ AI Automation & Workflows
-| Category | | Skills |
-| :--- | :---: | :--- |
-| **Automation** | | **n8n (Advanced)**, LangChain, CrewAI |
-| **AI Tools** | | Cursor Agents, AutoGen, Workflow Optimization |
-| **HR Systems** | | Attendance & Time-Tracking Automation |
-| **Business Ops** | | Custom AI Assistants & Process Automation |
+  <!-- AI & Data Science -->
+  <div class="card">
+    <h2>🤖 AI & Data Science</h2>
+    <ul>
+      <li>AI Engineering: AI Assistants, Intelligent Systems, Business Automation</li>
+      <li>Machine Learning: Regression, Classification, Clustering</li>
+      <li>Deep Learning: ANN, CNN, RNN</li>
+      <li>Computer Vision: Image Processing, AI-based Vision Systems</li>
+      <li>Generative AI: Image, Video, Logo, Marketing Content Generation</li>
+    </ul>
+  </div>
 
-<br>
+  <!-- AI Automation & Workflows -->
+  <div class="card">
+    <h2>⚡ AI Automation & Workflows</h2>
+    <ul>
+      <li>Workflow Automation: n8n (Advanced)</li>
+      <li>HR Attendance System: Employee Attendance & Time-Tracking Automation</li>
+      <li>Leave Management System: Automated Leave Request & Approval Workflow</li>
+      <li>AI Recruitment System: CV Filtering & Candidate Approval based on Experience</li>
+      <li>AI Assistants: Custom AI Assistants for Business Operations</li>
+      <li>Process Optimization: End-to-End Business Workflow Automation</li>
+    </ul>
+  </div>
 
-### 💻 Programming & Development
-| Category | | Skills |
-| :--- | :---: | :--- |
-| **Languages** | | Python (Advanced), C/C++, MATLAB, MicroPython, HTML, CSS |
-| **Databases** | | PostgreSQL, MongoDB, SQLite, Redis |
-| **Cloud** | | AWS, Google Cloud, Azure, Hostinger |
-| **Tools** | | GitHub, VS Code, Cursor, Docker, Linux, Anaconda |
+  <!-- Programming & Development -->
+  <div class="card">
+    <h2>💻 Programming & Development</h2>
+    <ul>
+      <li>Languages: Python (Advanced), HTML, CSS</li>
+      <li>Data Handling: NumPy, Pandas, SQL</li>
+      <li>Development Tools: GitHub, Slack, Trello</li>
+      <li>Version Control: Git</li>
+    </ul>
+  </div>
 
-<br>
+  <!-- Data Analysis & BI -->
+  <div class="card">
+    <h2>📊 Data Analysis & BI</h2>
+    <ul>
+      <li>Data Analysis: Data Cleaning, Data Preparation</li>
+      <li>Visualization: Excel, Power BI</li>
+      <li>Reporting: Dashboards, Business Insights</li>
+    </ul>
+  </div>
 
-### 🔌 Hardware & Embedded Systems
-| Category | | Skills |
-| :--- | :---: | :--- |
-| **PCB Design** | | Altium Designer, KiCad (Multi-layer, High-speed) |
-| **Micro** | | ESP32-S3, STM32, Arduino, ARM Cortex M0 |
-| **Hardware** | | NVIDIA Jetson Xavier AGX, Raspberry Pi 4 |
-| **Firmware** | | Real-time systems, OTA updates, FPGA (Verilog/VHDL) |
+  <!-- Featured Projects -->
+  <div class="card">
+    <h2>🚀 Featured Projects</h2>
+    <ul>
+      <li>
+        <span class="emoji">🕒</span> <strong>AI-Powered HR Attendance System</strong>
+        <p class="project-description">Smart attendance & time-tracking system using AI automation</p>
+        <p>Features: Location-based check-in, duplicate prevention, reporting</p>
+        <p class="impact">Impact: Reduced manual HR work and increased accuracy</p>
+      </li>
+      <li>
+        <span class="emoji">🏖️</span> <strong>Automated Leave Management System</strong>
+        <p class="project-description">End-to-end employee leave request & approval system</p>
+        <p>Features: Request submission, manager approval, status tracking</p>
+        <p class="impact">Impact: Faster approvals & organized HR operations</p>
+      </li>
+      <li>
+        <span class="emoji">📄</span> <strong>AI Recruitment & CV Filtering System</strong>
+        <p class="project-description">AI system that analyzes CVs and decides approval/rejection</p>
+        <p>Logic: Experience-based filtering & scoring</p>
+        <p class="impact">Impact: Faster hiring & unbiased candidate screening</p>
+      </li>
+      <li>
+        <span class="emoji">🎨</span> <strong>AI Marketing Content Automation</strong>
+        <p class="project-description">AI-powered image, video & content generation system</p>
+        <p>Use Cases: Social media, ads, branding materials</p>
+        <p class="impact">Impact: Faster marketing production & consistency</p>
+      </li>
+    </ul>
+  </div>
 
-<br>
+</div>
 
-### 🚀 Featured Projects
+</body>
+</html>
 
-> ### 🕒 AI-Powered HR Attendance System
-> **Smart attendance & time-tracking system using AI automation**
-> * **Features:** Location-based check-in, duplicate prevention, reporting.
-> * **Impact:** Reduced manual HR work and increased accuracy.
-
-> ### 🏖️ Automated Leave Management System
-> **End-to-end employee leave request & approval system**
-> * **Features:** Request submission, manager approval, status tracking.
-> * **Impact:** Faster approvals & organized HR operations.
-
-> ### 🎨 AI Marketing Content Automation
-> **AI-powered image, video & content generation system**
-> * **Use Cases:** Social media, ads, branding materials.
-> * **Impact:** Faster marketing production & consistency.
