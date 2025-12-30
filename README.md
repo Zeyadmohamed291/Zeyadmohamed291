@@ -20,153 +20,52 @@
 [![](https://visitcount.itsvg.in/api?id=Zeyadmohamed291&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>💼 Zeyad Mohamed - Technical Skills & Projects</title>
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Cairo', sans-serif;
-      background-color: #f5f7fa;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 20px;
-    }
-    .card {
-      background-color: #fff;
-      border-radius: 15px;
-      padding: 20px;
-      box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-      transition: transform 0.2s, box-shadow 0.2s;
-    }
-    .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-    }
-    .card h2 {
-      margin-top: 0;
-      font-size: 1.2em;
-    }
-    .card ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    .card ul li {
-      margin: 8px 0;
-      line-height: 1.4;
-    }
-    .emoji {
-      margin-right: 8px;
-    }
-    .project-description {
-      font-size: 0.95em;
-      color: #555;
-      margin: 5px 0;
-    }
-    .impact {
-      font-weight: bold;
-      color: #1a73e8;
-    }
-  </style>
-</head>
-<body>
+# 💼 Zeyad Mohamed - Technical Skills & Projects
 
-<h1>💼 Zeyad Mohamed - Technical Skills & Projects</h1>
+## 🤖 AI & Data Science
+- AI Engineering: AI Assistants, Intelligent Systems, Business Automation
+- Machine Learning: Regression, Classification, Clustering
+- Deep Learning: ANN, CNN, RNN
+- Computer Vision: Image Processing, AI-based Vision Systems
+- Generative AI: Image, Video, Logo, Marketing Content Generation
 
-<div class="grid">
+## ⚡ AI Automation & Workflows
+- Workflow Automation: n8n (Advanced)
+- HR Attendance System: Employee Attendance & Time-Tracking Automation
+- Leave Management System: Automated Leave Request & Approval Workflow
+- AI Recruitment System: CV Filtering & Candidate Approval based on Experience
+- AI Assistants: Custom AI Assistants for Business Operations
+- Process Optimization: End-to-End Business Workflow Automation
 
-  <!-- AI & Data Science -->
-  <div class="card">
-    <h2>🤖 AI & Data Science</h2>
-    <ul>
-      <li>AI Engineering: AI Assistants, Intelligent Systems, Business Automation</li>
-      <li>Machine Learning: Regression, Classification, Clustering</li>
-      <li>Deep Learning: ANN, CNN, RNN</li>
-      <li>Computer Vision: Image Processing, AI-based Vision Systems</li>
-      <li>Generative AI: Image, Video, Logo, Marketing Content Generation</li>
-    </ul>
-  </div>
+## 💻 Programming & Development
+- Languages: Python (Advanced), HTML, CSS
+- Data Handling: NumPy, Pandas, SQL
+- Development Tools: GitHub, Slack, Trello
+- Version Control: Git
 
-  <!-- AI Automation & Workflows -->
-  <div class="card">
-    <h2>⚡ AI Automation & Workflows</h2>
-    <ul>
-      <li>Workflow Automation: n8n (Advanced)</li>
-      <li>HR Attendance System: Employee Attendance & Time-Tracking Automation</li>
-      <li>Leave Management System: Automated Leave Request & Approval Workflow</li>
-      <li>AI Recruitment System: CV Filtering & Candidate Approval based on Experience</li>
-      <li>AI Assistants: Custom AI Assistants for Business Operations</li>
-      <li>Process Optimization: End-to-End Business Workflow Automation</li>
-    </ul>
-  </div>
+## 📊 Data Analysis & BI
+- 🔹 Data Analysis: NumPy, Pandas, SQL
+- 🔹 Data Cleaning & Data Preparation
+- 🔹 Visualization: Excel, Power BI
+- 🔹 Reporting & Business Insights
 
-  <!-- Programming & Development -->
-  <div class="card">
-    <h2>💻 Programming & Development</h2>
-    <ul>
-      <li>Languages: Python (Advanced), HTML, CSS</li>
-      <li>Data Handling: NumPy, Pandas, SQL</li>
-      <li>Development Tools: GitHub, Slack, Trello</li>
-      <li>Version Control: Git</li>
-    </ul>
-  </div>
+## 🚀 Featured Projects
+- 🕒 **AI-Powered HR Attendance System**  
+  Smart attendance & time-tracking system using AI automation  
+  *Features:* Location-based check-in, duplicate prevention, reporting  
+  *Impact:* Reduced manual HR work and increased accuracy
 
-  <!-- Data Analysis & BI -->
-  <div class="card">
-    <h2>📊 Data Analysis & BI</h2>
-    <ul>
-      <li>🔹 Data Analysis: NumPy, Pandas, SQL</li>
-      <li>🔹 Data Cleaning & Data Preparation</li>
-      <li>🔹 Visualization: Excel, Power BI</li>
-      <li>🔹 Reporting & Business Insights</li>
-    </ul>
-  </div>
+- 🏖️ **Automated Leave Management System**  
+  End-to-end employee leave request & approval system  
+  *Features:* Request submission, manager approval, status tracking  
+  *Impact:* Faster approvals & organized HR operations
 
-  <!-- Featured Projects -->
-  <div class="card">
-    <h2>🚀 Featured Projects</h2>
-    <ul>
-      <li>
-        <span class="emoji">🕒</span> <strong>AI-Powered HR Attendance System</strong>
-        <p class="project-description">Smart attendance & time-tracking system using AI automation</p>
-        <p>Features: Location-based check-in, duplicate prevention, reporting</p>
-        <p class="impact">Impact: Reduced manual HR work and increased accuracy</p>
-      </li>
-      <li>
-        <span class="emoji">🏖️</span> <strong>Automated Leave Management System</strong>
-        <p class="project-description">End-to-end employee leave request & approval system</p>
-        <p>Features: Request submission, manager approval, status tracking</p>
-        <p class="impact">Impact: Faster approvals & organized HR operations</p>
-      </li>
-      <li>
-        <span class="emoji">📄</span> <strong>AI Recruitment & CV Filtering System</strong>
-        <p class="project-description">AI system that analyzes CVs and decides approval/rejection</p>
-        <p>Logic: Experience-based filtering & scoring</p>
-        <p class="impact">Impact: Faster hiring & unbiased candidate screening</p>
-      </li>
-      <li>
-        <span class="emoji">🎨</span> <strong>AI Marketing Content Automation</strong>
-        <p class="project-description">AI-powered image, video & content generation system</p>
-        <p>Use Cases: Social media, ads, branding materials</p>
-        <p class="impact">Impact: Faster marketing production & consistency</p>
-      </li>
-    </ul>
-  </div>
+- 📄 **AI Recruitment & CV Filtering System**  
+  AI system that analyzes CVs and decides approval/rejection  
+  *Logic:* Experience-based filtering & scoring  
+  *Impact:* Faster hiring & unbiased candidate screening
 
-</div>
-
-</body>
-</html>
-
-
+- 🎨 **AI Marketing Content Automation**  
+  AI-powered image, video & content generation system  
+  *Use Cases:* Social media, ads, branding materials  
+  *Impact:* Faster marketing production & consistency
