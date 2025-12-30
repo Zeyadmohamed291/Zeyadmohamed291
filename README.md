@@ -22,14 +22,15 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 🛠️ Technical Skills & Tools
 ### 🤖 AI & Data Science
-```text
+ط
 AI Engineering            | AI Assistants, Intelligent Systems, Business Automation
 Machine Learning          | Regression, Classification, Clustering
 Deep Learning             | ANN, CNN, RNN
 Computer Vision           | Image Processing, AI-based Vision Systems
 Generative AI             | Image, Video, Logo, Marketing Content Generation
 ⚡ AI Automation & Workflows
-text
+```text
+
 Copy code
 Workflow Automation       | n8n (Advanced)
 HR Attendance System      | Employee Attendance & Time-Tracking Automation
@@ -37,44 +38,43 @@ Leave Management System   | Automated Leave Request & Approval Workflow
 AI Recruitment System     | CV Filtering & Candidate Approval based on Experience
 AI Assistants             | Custom AI Assistants for Business Operations
 Process Optimization      | End-to-End Business Workflow Automation
+
 💻 Programming & Development
-text
-Copy code
+
 Languages                 | Python (Advanced), HTML, CSS
 Data Handling             | NumPy, Pandas, SQL
 Development Tools         | GitHub, Slack, Trello
 Version Control           | Git
 📊 Data Analysis & BI
-text
-Copy code
+
 Data Analysis             | Data Cleaning, Data Preparation
 Visualization             | Excel, Power BI
 Reporting                 | Dashboards, Business Insights
 🚀 Featured Projects
+
 🕒 AI-Powered HR Attendance System
-text
-Copy code
+
 Description   | Smart attendance & time-tracking system using AI automation
 Features      | Location-based check-in, duplicate prevention, reporting
 Automation    | n8n workflows for validation & logging
 Impact        | Reduced manual HR work and increased accuracy
+
 🏖️ Automated Leave Management System
-text
-Copy code
+
 Description   | End-to-end employee leave request & approval system
 Features      | Request submission, manager approval, status tracking
 Automation    | Fully automated workflow using n8n
 Impact        | Faster approvals & organized HR operations
+
 📄 AI Recruitment & CV Filtering System
-text
-Copy code
+
 Description   | AI system that analyzes CVs and decides approval/rejection
 Logic         | Experience-based filtering & scoring
 AI Usage      | NLP + rule-based decision workflows
 Impact        | Faster hiring & unbiased candidate screening
+
 🎨 AI Marketing Content Automation
-text
-Copy code
+
 Description   | AI-powered image, video & content generation system
 Use Cases     | Social media, ads, branding materials
 Automation    | Prompt-based content pipelines
