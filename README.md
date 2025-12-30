@@ -20,158 +20,63 @@
 [![](https://visitcount.itsvg.in/api?id=Zeyadmohamed291&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>💼 Zeyad Mohamed - Technical Skills & Projects</title>
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Cairo', sans-serif;
-      background-color: #f5f7fa;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 20px;
-    }
-    .card {
-      background-color: #fff;
-      border-radius: 15px;
-      padding: 20px;
-      box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-      transition: transform 0.2s, box-shadow 0.2s;
-    }
-    .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
-    }
-    .card h2 {
-      margin-top: 0;
-      font-size: 1.2em;
-    }
-    .card ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    .card ul li {
-      margin: 8px 0;
-      line-height: 1.4;
-    }
-    .emoji {
-      margin-right: 8px;
-    }
-    .project-description {
-      font-size: 0.95em;
-      color: #555;
-      margin: 5px 0;
-    }
-    .impact {
-      font-weight: bold;
-      color: #1a73e8;
-    }
-  </style>
-</head>
-<body>
+# 💼 Zeyad Mohamed - AI Engineer & Automation Specialist
 
-<h1>💼 Zeyad Mohamed - Technical Skills & Projects</h1>
+### 🤖 AI/ML Technologies
+| Category | | Skills |
+| :--- | :---: | :--- |
+| **LLMs** | | OpenAI GPT, Claude, Gemini, DeepSeek, LLaMA |
+| **AI Engineering** | | AI Assistants, Intelligent Systems, Business Automation |
+| **Deep Learning** | | ANN, CNN, RNN, PyTorch, TensorFlow |
+| **Computer Vision** | | YOLO, OpenCV, Image Processing |
+| **Vector DBs** | | Pinecone, Weaviate, Chroma, FAISS |
+| **Generative AI** | | AI-based Image, Video, Logo, & Marketing Content |
 
-<div class="grid">
+<br>
 
-  <div class="card">
-    <h2>🤖 AI/ML Technologies</h2>
-    <ul>
-      <li><strong>LLMs:</strong> OpenAI GPT, Claude, Gemini, DeepSeek, LLaMA</li>
-      <li><strong>AI Engineering:</strong> AI Assistants, Intelligent Systems, Business Automation</li>
-      <li><strong>Deep Learning:</strong> ANN, CNN, RNN, PyTorch, TensorFlow</li>
-      <li><strong>Computer Vision:</strong> YOLO, OpenCV, Image Processing</li>
-      <li><strong>Vector Databases:</strong> Pinecone, Weaviate, Chroma, FAISS</li>
-      <li><strong>Generative AI:</strong> Image, Video, Logo, & Marketing Content Generation</li>
-    </ul>
-  </div>
+### ⚡ AI Automation & Workflows
+| Category | | Skills |
+| :--- | :---: | :--- |
+| **Automation** | | **n8n (Advanced)**, LangChain, CrewAI |
+| **AI Tools** | | Cursor Agents, AutoGen, Workflow Optimization |
+| **HR Systems** | | Attendance & Time-Tracking Automation |
+| **Business Ops** | | Custom AI Assistants & Process Automation |
 
-  <div class="card">
-    <h2>⚡ AI Automation & Workflows</h2>
-    <ul>
-      <li><strong>Automation Tools:</strong> n8n (Advanced), LangChain, CrewAI</li>
-      <li><strong>AI Tools:</strong> Cursor Agents, AutoGen, Workflow Optimization</li>
-      <li><strong>HR Systems:</strong> Attendance & Time-Tracking Automation</li>
-      <li><strong>Leave Management:</strong> Automated Request & Approval Workflows</li>
-      <li><strong>AI Recruitment:</strong> CV Filtering & Candidate Scoring Systems</li>
-      <li><strong>Business Ops:</strong> Custom AI Assistants & Process Automation</li>
-    </ul>
-  </div>
+<br>
 
-  <div class="card">
-    <h2>💻 Programming & Development</h2>
-    <ul>
-      <li><strong>Languages:</strong> Python (Advanced), C/C++, MATLAB, MicroPython, Verilog/VHDL, HTML, CSS</li>
-      <li><strong>Databases:</strong> PostgreSQL, MongoDB, SQLite, Redis</li>
-      <li><strong>Cloud Platforms:</strong> AWS, Google Cloud, Azure, Hostinger</li>
-      <li><strong>Tools:</strong> GitHub, VS Code, Cursor, Docker, Linux, Anaconda</li>
-    </ul>
-  </div>
+### 💻 Programming & Development
+| Category | | Skills |
+| :--- | :---: | :--- |
+| **Languages** | | Python (Advanced), C/C++, MATLAB, MicroPython, HTML, CSS |
+| **Databases** | | PostgreSQL, MongoDB, SQLite, Redis |
+| **Cloud** | | AWS, Google Cloud, Azure, Hostinger |
+| **Tools** | | GitHub, VS Code, Cursor, Docker, Linux, Anaconda |
 
-  <div class="card">
-    <h2>🔌 Hardware & Embedded Systems</h2>
-    <ul>
-      <li><strong>PCB Design:</strong> Altium Designer, KiCad (Multi-layer, High-speed)</li>
-      <li><strong>Microcontrollers:</strong> ESP32-S3, STM32, Arduino, ARM Cortex M0</li>
-      <li><strong>Development Boards:</strong> NVIDIA Jetson Xavier AGX, Raspberry Pi 4</li>
-      <li><strong>Communication:</strong> UART, SPI, I2C, One-Wire, LIN, CAN</li>
-      <li><strong>Firmware:</strong> Real-time systems, OTA updates, FPGA Development</li>
-    </ul>
-  </div>
+<br>
 
-  <div class="card">
-    <h2>📊 Data Analysis & Analytics</h2>
-    <ul>
-      <li><strong>Data Processing:</strong> NumPy, Pandas, SciPy, Data Cleaning</li>
-      <li><strong>Visualization:</strong> Power BI, Excel, Matplotlib, Seaborn, Plotly</li>
-      <li><strong>Statistical Analysis:</strong> Regression models (SVR, Random Forest)</li>
-      <li><strong>Signal Processing:</strong> MATLAB/Simulink for hardware modeling</li>
-    </ul>
-  </div>
+### 🔌 Hardware & Embedded Systems
+| Category | | Skills |
+| :--- | :---: | :--- |
+| **PCB Design** | | Altium Designer, KiCad (Multi-layer, High-speed) |
+| **Micro** | | ESP32-S3, STM32, Arduino, ARM Cortex M0 |
+| **Hardware** | | NVIDIA Jetson Xavier AGX, Raspberry Pi 4 |
+| **Firmware** | | Real-time systems, OTA updates, FPGA (Verilog/VHDL) |
 
-  <div class="card">
-    <h2>🚀 Featured Projects</h2>
-    <ul>
-      <li>
-        <span class="emoji">🕒</span> <strong>AI-Powered HR Attendance System</strong>
-        <p class="project-description">Smart attendance & time-tracking system using AI automation</p>
-        <p>Features: Location-based check-in, duplicate prevention, reporting</p>
-        <p class="impact">Impact: Reduced manual HR work and increased accuracy</p>
-      </li>
-      <li>
-        <span class="emoji">🏖️</span> <strong>Automated Leave Management System</strong>
-        <p class="project-description">End-to-end employee leave request & approval system</p>
-        <p>Features: Request submission, manager approval, status tracking</p>
-        <p class="impact">Impact: Faster approvals & organized HR operations</p>
-      </li>
-      <li>
-        <span class="emoji">📄</span> <strong>AI Recruitment & CV Filtering System</strong>
-        <p class="project-description">AI system that analyzes CVs and decides approval/rejection</p>
-        <p>Logic: Experience-based filtering & scoring</p>
-        <p class="impact">Impact: Faster hiring & unbiased candidate screening</p>
-      </li>
-      <li>
-        <span class="emoji">🎨</span> <strong>AI Marketing Content Automation</strong>
-        <p class="project-description">AI-powered image, video & content generation system</p>
-        <p>Use Cases: Social media, ads, branding materials</p>
-        <p class="impact">Impact: Faster marketing production & consistency</p>
-      </li>
-    </ul>
-  </div>
+<br>
 
-</div>
+### 🚀 Featured Projects
 
-</body>
-</html>
+> ### 🕒 AI-Powered HR Attendance System
+> **Smart attendance & time-tracking system using AI automation**
+> * **Features:** Location-based check-in, duplicate prevention, reporting.
+> * **Impact:** Reduced manual HR work and increased accuracy.
+
+> ### 🏖️ Automated Leave Management System
+> **End-to-end employee leave request & approval system**
+> * **Features:** Request submission, manager approval, status tracking.
+> * **Impact:** Faster approvals & organized HR operations.
+
+> ### 🎨 AI Marketing Content Automation
+> **AI-powered image, video & content generation system**
+> * **Use Cases:** Social media, ads, branding materials.
+> * **Impact:** Faster marketing production & consistency.
