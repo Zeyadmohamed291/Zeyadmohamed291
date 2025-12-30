@@ -28,10 +28,10 @@ Machine Learning          | Regression, Classification, Clustering
 Deep Learning             | ANN, CNN, RNN
 Computer Vision           | Image Processing, AI-based Vision Systems
 Generative AI             | Image, Video, Logo, Marketing Content Generation
+
 ⚡ AI Automation & Workflows
 ```text
 
-Copy code
 Workflow Automation       | n8n (Advanced)
 HR Attendance System      | Employee Attendance & Time-Tracking Automation
 Leave Management System   | Automated Leave Request & Approval Workflow
