@@ -126,9 +126,10 @@
   <div class="card">
     <h2>📊 Data Analysis & BI</h2>
     <ul>
-      <li>Data Analysis: Data Cleaning, Data Preparation</li>
-      <li>Visualization: Excel, Power BI</li>
-      <li>Reporting: Dashboards, Business Insights</li>
+      <li>🔹 Data Analysis: NumPy, Pandas, SQL</li>
+      <li>🔹 Data Cleaning & Data Preparation</li>
+      <li>🔹 Visualization: Excel, Power BI</li>
+      <li>🔹 Reporting & Business Insights</li>
     </ul>
   </div>
 
