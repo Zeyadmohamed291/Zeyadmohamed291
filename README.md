@@ -21,7 +21,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 🛠️ Technical Skills & Tools
-🤖 AI & Data Science
+### 🤖 AI & Data Science
+```text
 AI Engineering            | AI Assistants, Intelligent Systems, Business Automation
 Machine Learning          | Regression, Classification, Clustering
 Deep Learning             | ANN, CNN, RNN
