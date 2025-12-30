@@ -20,124 +20,158 @@
 [![](https://visitcount.itsvg.in/api?id=Zeyadmohamed291&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="left">
-  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <h3 style="color: #e6edf3;">🤖 AI/ML Technologies</h3>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>💼 Zeyad Mohamed - Technical Skills & Projects</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Cairo', sans-serif;
+      background-color: #f5f7fa;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background-color: #fff;
+      border-radius: 15px;
+      padding: 20px;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    }
+    .card h2 {
+      margin-top: 0;
+      font-size: 1.2em;
+    }
+    .card ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .card ul li {
+      margin: 8px 0;
+      line-height: 1.4;
+    }
+    .emoji {
+      margin-right: 8px;
+    }
+    .project-description {
+      font-size: 0.95em;
+      color: #555;
+      margin: 5px 0;
+    }
+    .impact {
+      font-weight: bold;
+      color: #1a73e8;
+    }
+  </style>
+</head>
+<body>
+
+<h1>💼 Zeyad Mohamed - Technical Skills & Projects</h1>
+
+<div class="grid">
+
+  <div class="card">
+    <h2>🤖 AI/ML Technologies</h2>
+    <ul>
+      <li><strong>LLMs:</strong> OpenAI GPT, Claude, Gemini, DeepSeek, LLaMA</li>
+      <li><strong>AI Engineering:</strong> AI Assistants, Intelligent Systems, Business Automation</li>
+      <li><strong>Deep Learning:</strong> ANN, CNN, RNN, PyTorch, TensorFlow</li>
+      <li><strong>Computer Vision:</strong> YOLO, OpenCV, Image Processing</li>
+      <li><strong>Vector Databases:</strong> Pinecone, Weaviate, Chroma, FAISS</li>
+      <li><strong>Generative AI:</strong> Image, Video, Logo, & Marketing Content Generation</li>
+    </ul>
   </div>
-  <table style="width: 100%; background-color: #161b22; border: 1px solid #30363d; border-collapse: collapse; font-family: monospace;">
-    <tr>
-      <td style="padding: 20px;">
-        <table style="width: 100%; border: none;">
-          <tr>
-            <td style="color: #8b949e; width: 220px; vertical-align: top;">Deep Learning</td>
-            <td style="color: #8b949e; width: 20px; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">ANN, CNN, RNN, Computer Vision (Image Processing)</td>
-          </tr>
-          <tr>
-            <td style="color: #8b949e; vertical-align: top;">Machine Learning</td>
-            <td style="color: #8b949e; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">Regression, Classification, Clustering, Data Cleaning</td>
-          </tr>
-          <tr>
-            <td style="color: #8b949e; vertical-align: top;">Generative AI</td>
-            <td style="color: #8b949e; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">AI-based Image & Video Generation, Logo Design, Marketing Content</td>
-          </tr>
-          <tr>
-            <td style="color: #8b949e; vertical-align: top;">AI Tools & Agents</td>
-            <td style="color: #8b949e; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">Custom AI Assistants, CV Filtering Agents, Automated Attendance Systems</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+
+  <div class="card">
+    <h2>⚡ AI Automation & Workflows</h2>
+    <ul>
+      <li><strong>Automation Tools:</strong> n8n (Advanced), LangChain, CrewAI</li>
+      <li><strong>AI Tools:</strong> Cursor Agents, AutoGen, Workflow Optimization</li>
+      <li><strong>HR Systems:</strong> Attendance & Time-Tracking Automation</li>
+      <li><strong>Leave Management:</strong> Automated Request & Approval Workflows</li>
+      <li><strong>AI Recruitment:</strong> CV Filtering & Candidate Scoring Systems</li>
+      <li><strong>Business Ops:</strong> Custom AI Assistants & Process Automation</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>💻 Programming & Development</h2>
+    <ul>
+      <li><strong>Languages:</strong> Python (Advanced), C/C++, MATLAB, MicroPython, Verilog/VHDL, HTML, CSS</li>
+      <li><strong>Databases:</strong> PostgreSQL, MongoDB, SQLite, Redis</li>
+      <li><strong>Cloud Platforms:</strong> AWS, Google Cloud, Azure, Hostinger</li>
+      <li><strong>Tools:</strong> GitHub, VS Code, Cursor, Docker, Linux, Anaconda</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>🔌 Hardware & Embedded Systems</h2>
+    <ul>
+      <li><strong>PCB Design:</strong> Altium Designer, KiCad (Multi-layer, High-speed)</li>
+      <li><strong>Microcontrollers:</strong> ESP32-S3, STM32, Arduino, ARM Cortex M0</li>
+      <li><strong>Development Boards:</strong> NVIDIA Jetson Xavier AGX, Raspberry Pi 4</li>
+      <li><strong>Communication:</strong> UART, SPI, I2C, One-Wire, LIN, CAN</li>
+      <li><strong>Firmware:</strong> Real-time systems, OTA updates, FPGA Development</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>📊 Data Analysis & Analytics</h2>
+    <ul>
+      <li><strong>Data Processing:</strong> NumPy, Pandas, SciPy, Data Cleaning</li>
+      <li><strong>Visualization:</strong> Power BI, Excel, Matplotlib, Seaborn, Plotly</li>
+      <li><strong>Statistical Analysis:</strong> Regression models (SVR, Random Forest)</li>
+      <li><strong>Signal Processing:</strong> MATLAB/Simulink for hardware modeling</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>🚀 Featured Projects</h2>
+    <ul>
+      <li>
+        <span class="emoji">🕒</span> <strong>AI-Powered HR Attendance System</strong>
+        <p class="project-description">Smart attendance & time-tracking system using AI automation</p>
+        <p>Features: Location-based check-in, duplicate prevention, reporting</p>
+        <p class="impact">Impact: Reduced manual HR work and increased accuracy</p>
+      </li>
+      <li>
+        <span class="emoji">🏖️</span> <strong>Automated Leave Management System</strong>
+        <p class="project-description">End-to-end employee leave request & approval system</p>
+        <p>Features: Request submission, manager approval, status tracking</p>
+        <p class="impact">Impact: Faster approvals & organized HR operations</p>
+      </li>
+      <li>
+        <span class="emoji">📄</span> <strong>AI Recruitment & CV Filtering System</strong>
+        <p class="project-description">AI system that analyzes CVs and decides approval/rejection</p>
+        <p>Logic: Experience-based filtering & scoring</p>
+        <p class="impact">Impact: Faster hiring & unbiased candidate screening</p>
+      </li>
+      <li>
+        <span class="emoji">🎨</span> <strong>AI Marketing Content Automation</strong>
+        <p class="project-description">AI-powered image, video & content generation system</p>
+        <p>Use Cases: Social media, ads, branding materials</p>
+        <p class="impact">Impact: Faster marketing production & consistency</p>
+      </li>
+    </ul>
+  </div>
+
 </div>
 
-<br />
-
-<div align="left">
-  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <h3 style="color: #e6edf3;">⚡ AI Automation & Workflows</h3>
-  </div>
-  <table style="width: 100%; background-color: #161b22; border: 1px solid #30363d; border-collapse: collapse; font-family: monospace;">
-    <tr>
-      <td style="padding: 20px;">
-        <table style="width: 100%; border: none;">
-          <tr>
-            <td style="color: #8b949e; width: 220px; vertical-align: top;">Automation Tools</td>
-            <td style="color: #8b949e; width: 20px; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">n8n (Advanced), Workflow Optimization, API Integration</td>
-          </tr>
-          <tr>
-            <td style="color: #8b949e; vertical-align: top;">Business Systems</td>
-            <td style="color: #8b949e; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">Smart HR Attendance, Leave Management, Recruitment Automation</td>
-          </tr>
-          <tr>
-            <td style="color: #8b949e; vertical-align: top;">Media Automation</td>
-            <td style="color: #8b949e; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">Automated Content Generation Pipelines for Marketing</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="left">
-  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <h3 style="color: #e6edf3;">💻 Programming & Development</h3>
-  </div>
-  <table style="width: 100%; background-color: #161b22; border: 1px solid #30363d; border-collapse: collapse; font-family: monospace;">
-    <tr>
-      <td style="padding: 20px;">
-        <table style="width: 100%; border: none;">
-          <tr>
-            <td style="color: #8b949e; width: 220px; vertical-align: top;">Languages</td>
-            <td style="color: #8b949e; width: 20px; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">Python (Advanced), SQL, HTML, CSS</td>
-          </tr>
-          <tr>
-            <td style="color: #8b949e; vertical-align: top;">Development Tools</td>
-            <td style="color: #8b949e; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">GitHub, Git, Slack, Trello, VS Code</td>
-          </tr>
-          <tr>
-            <td style="color: #8b949e; vertical-align: top;">Cloud & Platforms</td>
-            <td style="color: #8b949e; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">Hosting Services, Business Operations Automation</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="left">
-  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-    <h3 style="color: #e6edf3;">📊 Data Science & Analytics</h3>
-  </div>
-  <table style="width: 100%; background-color: #161b22; border: 1px solid #30363d; border-collapse: collapse; font-family: monospace;">
-    <tr>
-      <td style="padding: 20px;">
-        <table style="width: 100%; border: none;">
-          <tr>
-            <td style="color: #8b949e; width: 220px; vertical-align: top;">Data Processing</td>
-            <td style="color: #8b949e; width: 20px; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">Pandas, NumPy, SciPy</td>
-          </tr>
-          <tr>
-            <td style="color: #8b949e; vertical-align: top;">Visualization & BI</td>
-            <td style="color: #8b949e; vertical-align: top;">|</td>
-            <td style="color: #c9d1d9;">Power BI, Excel, Matplotlib, Seaborn</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+</body>
+</html>
