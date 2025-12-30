@@ -20,3 +20,36 @@
 [![](https://visitcount.itsvg.in/api?id=Zeyadmohamed291&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛠️ Technical Skills & Tools
+🤖 AI & Data Science
+AI Engineering            | AI Assistants, Intelligent Systems, Business Automation
+Machine Learning          | Regression, Classification, Clustering
+Deep Learning             | ANN, CNN, RNN
+Computer Vision           | Image Processing, AI-based Vision Systems
+Generative AI             | Image, Video, Logo, Marketing Content Generation
+
+⚡ AI Automation & Workflows
+Workflow Automation       | n8n (Advanced)
+HR Attendance System      | Employee Attendance & Time-Tracking Automation
+Leave Management System   | Automated Leave Request & Approval Workflow
+AI Recruitment System     | CV Filtering & Candidate Approval Based on Experience
+AI Assistants             | Custom AI Assistants for Business Operations
+Process Optimization      | End-to-End Business Workflow Automation
+
+💻 Programming & Development
+Languages                 | Python (Advanced), HTML, CSS
+Data Handling             | NumPy, Pandas, SQL
+Development Tools         | GitHub, Slack, Trello
+Version Control           | Git
+
+📊 Data Analysis & BI
+Data Analysis             | Data Cleaning, Data Preparation
+Visualization             | Excel, Power BI
+Insights & Reporting      | Dashboards, Business Metrics
+
+🚀 Projects & Experience
+Attendance Systems        | Intelligent attendance & time-tracking solutions
+AI Assistants             | Custom AI assistants for business workflows
+Marketing Automation      | AI-powered image, video & content generation
+HR Systems                | Employee leave request management
+Automation Projects       | End-to-end workflow automation using n8n
