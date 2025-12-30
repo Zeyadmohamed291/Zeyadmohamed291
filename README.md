@@ -33,7 +33,6 @@ Computer Vision           | Image Processing, AI-based Vision Systems
 Generative AI             | Image, Video, Logo, Marketing Content Generation
 
 ⚡ AI Automation & Workflows
-```text
 
 Workflow Automation       | n8n (Advanced)
 HR Attendance System      | Employee Attendance & Time-Tracking Automation
