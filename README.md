@@ -1,168 +1,328 @@
 # 👋 Hi, I'm Zeyad Mohamed
 
-### 🤖 AI Engineer | Machine Learning | Computer Vision | LLMs & AI Automation
+### AI Engineer · Machine Learning · Deep Learning · Computer Vision · NLP/LLMs · AI Automation
 
-I’m an **AI Engineer** focused on building practical AI systems that solve real-world problems.
+I design and build **production-oriented AI systems** that transform complex business problems into reliable, automated solutions.
 
-My work spans **Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, RAG, AI automation, and data-driven systems**. I enjoy taking an idea from experimentation to a reliable, production-ready solution.
+My engineering focus spans **Machine Learning, Deep Learning, Computer Vision, NLP, LLM applications, RAG, OCR, AI agents, data pipelines, and intelligent workflow automation**.
 
-I’m particularly interested in building AI systems that can **understand documents, automate business processes, analyze data, and interact naturally with users**.
+I work across the full AI lifecycle — from **data preparation and model development to API integration, automation, deployment, monitoring, and continuous improvement**.
+
+> **Building AI systems that are practical, scalable, and designed to solve real business problems.**
 
 ---
 
-## 🧠 What I Work With
+# 🧠 AI Engineering
 
-### 🤖 AI & Machine Learning
+### Machine Learning
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* NLP & LLM Applications
-* RAG & AI Assistants
+* Supervised & Unsupervised Learning
+* Classification & Regression
+* Feature Engineering
+* Model Evaluation
+* Data Preprocessing
+* Model Experimentation
+
+### Deep Learning
+
+* Neural Networks
+* CNNs
+* Computer Vision Models
+* Transfer Learning
+* Model Optimization
+* PyTorch-based Development
+
+### Computer Vision
+
+* Image Processing
+* OCR
 * Document Intelligence
-* OCR & Image Processing
-* Generative AI
+* Image Classification
+* Object Detection
+* Image Preprocessing
+* Structured Information Extraction
 
-### ⚡ AI Automation
+### NLP & LLM Engineering
 
-* Intelligent Workflow Automation
-* AI Agents & AI Assistants
+* Natural Language Processing
+* LLM Applications
+* Prompt Engineering
+* RAG Systems
+* Embeddings & Semantic Search
+* AI Assistants
+* Conversational AI
+* Structured LLM Outputs
+
+---
+
+# ⚡ AI Automation & Intelligent Systems
+
+I build automation systems that connect **AI models, APIs, databases, business logic, and external services** into end-to-end workflows.
+
+* AI Agents
+* AI Assistants
 * Business Process Automation
-* n8n Workflow Automation
-* AI-powered Recruitment & HR Systems
-* Lead Generation & Data Collection
-* API-based AI Integrations
+* n8n Automation
+* Intelligent Data Extraction
+* Lead Generation Systems
+* AI Recruitment Workflows
+* HR Automation
+* Automated Reporting
+* API-driven AI Systems
+* Human-in-the-loop Workflows
 
-### 📊 Data & Analytics
+---
 
-* Python
-* NumPy
-* Pandas
-* SQL
-* Data Cleaning & Preparation
-* Data Analysis
-* Power BI
+# 🏗️ AI System Engineering
+
+My approach goes beyond building models — I focus on turning AI capabilities into usable systems.
+
+```text
+Data
+  ↓
+Preprocessing
+  ↓
+AI / ML Model
+  ↓
+Inference Pipeline
+  ↓
+Business Logic
+  ↓
+FastAPI / API Layer
+  ↓
+Automation & Integrations
+  ↓
+Production System
+```
+
+Key areas:
+
+* AI Microservices
+* REST APIs
+* FastAPI
+* Model Serving
 * Data Pipelines
+* System Integration
+* Containerization
+* Production Workflows
+* Logging & Error Handling
+* Testing & Validation
 
 ---
 
-## 🛠️ Technical Stack
+# 🛠️ Technical Stack
 
-**Languages**
+## 🐍 Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<div align="center">
 
-**AI / ML**
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="55"/>
+<img src="https://skillicons.dev/icons?i=sql" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
-
-**AI Automation & Infrastructure**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-**Data & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 AI / Machine Learning
 
-### 📄 Universal Document OCR & Intelligence
+<div align="center">
 
-An AI-powered document processing system designed to work with different types of documents and images.
+<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+<img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
+<img src="https://skillicons.dev/icons?i=anaconda" height="55"/>
 
-**Focus:**
+</div>
+
+**Core:**
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `OCR` · `LLMs` · `RAG` · `Generative AI`
+
+---
+
+## 🧠 LLM & AI Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Search-0891B2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+---
+
+## ⚙️ AI Automation & Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=postman" height="55"/>
+<img src="https://skillicons.dev/icons?i=nginx" height="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-4F46E5?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+---
+
+## 🗄️ Databases & Data Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
+<img src="https://skillicons.dev/icons?i=redis" height="55"/>
+<img src="https://skillicons.dev/icons?i=supabase" height="55"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+</div>
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+<img src="https://skillicons.dev/icons?i=azure" height="55"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="55"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+
+</div>
+
+---
+
+## 📊 Data Analytics & BI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-0F766E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-2563EB?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 Selected AI Projects
+
+## 📄 Universal Document OCR & Intelligence
+
+Production-oriented document intelligence microservice designed to process **different document types and images**, rather than being limited to a single document format.
+
+**Capabilities**
 
 * OCR & text extraction
-* Arabic & English document processing
+* Arabic & English processing
 * Image preprocessing
 * Document classification
+* Reading-order reconstruction
 * Structured information extraction
-* Geometric reading order
-* FastAPI-based AI microservice
+* AI-ready JSON outputs
+* FastAPI microservice architecture
 
-**Tech:** Python · EasyOCR · PyTorch · FastAPI · Computer Vision
+**Stack:** Python · EasyOCR · PyTorch · OpenCV · FastAPI
 
 ---
 
-### 🤖 AI Business Assistants
+## 🤖 AI Business Assistants
 
-AI assistants designed to help businesses automate repetitive operations and provide intelligent responses.
+Intelligent assistants designed to combine **LLMs, business knowledge, retrieval, and automation**.
 
-**Focus:**
+**Capabilities**
 
-* LLM integrations
 * RAG
 * Knowledge retrieval
 * Conversational AI
-* Business workflows
+* Structured responses
+* Business knowledge bases
 * API integrations
-
-**Tech:** Python · LLMs · RAG · FastAPI · n8n
+* Automated workflows
 
 ---
 
-### ⚡ AI Workflow Automation
+## ⚡ Intelligent Workflow Automation
 
-Automated business workflows that connect AI models, APIs, databases, and external services.
+End-to-end automation systems connecting AI models with business operations.
 
-**Use Cases:**
+**Examples**
 
-* Lead collection
-* Data extraction
+* Lead collection & enrichment
+* AI recruitment
 * HR automation
-* Recruitment workflows
-* Reporting automation
-* Business process optimization
-
-**Tech:** Python · n8n · APIs · SQL · AI Models
-
----
-
-### 📊 Data Analysis & Business Intelligence
-
-Data-driven systems for transforming raw business data into useful insights.
-
-**Focus:**
-
-* Data cleaning
-* Data transformation
-* Exploratory data analysis
-* Business dashboards
+* Data extraction
 * Automated reporting
+* Business workflow orchestration
 
-**Tech:** Python · Pandas · NumPy · SQL · Power BI
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Zeyadmohamed291\&theme=nightowl\&hide_border=false\&include_all_commits=false\&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Zeyadmohamed291\&theme=nightowl\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyadmohamed291\&theme=nightowl\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+**Stack:** Python · n8n · APIs · SQL · LLMs
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/zeyad-mohamed-1ab745253)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:zm3143519@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Zeyadmohamed291&show_icons=true&theme=nightowl&hide_border=true&count_private=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeyadmohamed291&theme=nightowl&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyadmohamed291&theme=nightowl&hide_border=true&layout=compact"/>
+
+</div>
 
 ---
 
-### 💡 Building AI systems that turn ideas into real-world solutions.
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/zeyad-mohamed-1ab745253">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:zm3143519@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤖 AI Engineer building intelligent systems for real-world problems.
+
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `LLMs` · `RAG` · `AI Automation`
+
+</div>
